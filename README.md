@@ -1,1 +1,1 @@
-# COVInfectionSimulation
+# ✳️ COVInfectionSimulation
